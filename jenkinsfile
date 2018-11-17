@@ -1,0 +1,12 @@
+node('maven-label'){
+stage("prepration:){
+ sh "echo hello world"
+ }
+stage("prepration:){
+ sh "echo hello world"
+ }
+stage("prepration:){
+ sh "echo hello world"
+ }
+
+}
